@@ -39,14 +39,12 @@ open_to            = ["Data Scientist", "ML Engineer", "AI/LLM Engineer", "Softw
 
 ---
 
-```
-📁 selected-work/
-├── notaryverify_ai           FastAPI · Next.js · DeepFace · EasyOCR      → github.com/snavya0309/notaryverify_ai
-├── deep-research-agent       CrewAI · FinBERT · GROQ · yfinance          → github.com/snavya0309/deep-research-investment-agent
-├── StartupOracle             XGBoost · LightGBM · SHAP · Streamlit       → github.com/snavya0309/StartupOracle
-├── UNLEARN-BENCH/PCGU        PyTorch · PEFT · LoRA · Transformers        → github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU
-└── quantum-cancer-detection  Qiskit · PyTorch · published + award        → snavya0309.github.io/paperportfolio
-```
+📁 **selected-work/**
+├── [notaryverify_ai](https://github.com/snavya0309/notaryverify_ai) — FastAPI · Next.js · DeepFace · EasyOCR
+├── [deep-research-agent](https://github.com/snavya0309/deep-research-investment-agent) — CrewAI · FinBERT · GROQ · yfinance
+├── [StartupOracle](https://github.com/snavya0309/StartupOracle) — XGBoost · LightGBM · SHAP · Streamlit
+├── [UNLEARN-BENCH / PCGU](https://github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU) — PyTorch · PEFT · LoRA · Transformers
+└── [quantum-cancer-detection](https://snavya0309.github.io/paperportfolio) — Qiskit · PyTorch · published + award
 
 ---
 

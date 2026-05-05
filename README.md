@@ -15,11 +15,11 @@ $ whoami
 
 ```bash
 $ git log --oneline --career
-a3f8c12  (HEAD) feat: full AI pipeline — The Lillian Project, dyslexia intervention capstone
-b7d2e09  feat: 85%-accurate startup exit model shipped to production @ Hissa
-c1e9f44  feat: RAG GenAI chatbot for 50+ technicians on AWS @ Mercedes-Benz R&D
-d9f1e33  research: machine unlearning in Phi + Mamba · PEFT · LoRA @ ASU
-e8a2b11  published: Quantum ML paper · Runner-Up Unisys Innovation Program Year 14
+feat: full AI pipeline — The Lillian Project, dyslexia intervention capstone  [in progress]
+feat: 85%-accurate startup exit model shipped to production @ Hissa            [2025]
+feat: RAG GenAI chatbot for 50+ technicians on AWS @ Mercedes-Benz R&D        [2024]
+feat: machine unlearning in Phi + Mamba · PEFT · LoRA @ ASU                  [2025]
+feat: Quantum ML paper published · Runner-Up Unisys Innovation Program Yr 14  [2023]
 ```
 
 ```python
@@ -32,24 +32,31 @@ skills = {
 
 currently_building = "AI pipeline for The Lillian Project — adaptive literacy intervention for dyslexia"
 open_to            = ["Data Scientist", "ML Engineer", "AI/LLM Engineer", "Software Engineer"]
+
+# I own the problem from raw data to deployed product.
+# Less interested in demos. More interested in systems that actually ship.
 ```
 
 ---
 
-I own the problem from raw data to deployed product.
-Less interested in demos. More interested in systems that actually ship.
+```
+📁 selected-work/
+├── notaryverify_ai           FastAPI · Next.js · DeepFace · EasyOCR      → github.com/snavya0309/notaryverify_ai
+├── deep-research-agent       CrewAI · FinBERT · GROQ · yfinance          → github.com/snavya0309/deep-research-investment-agent
+├── StartupOracle             XGBoost · LightGBM · SHAP · Streamlit       → github.com/snavya0309/StartupOracle
+├── UNLEARN-BENCH/PCGU        PyTorch · PEFT · LoRA · Transformers        → github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU
+└── quantum-cancer-detection  Qiskit · PyTorch · published + award        → snavya0309.github.io/paperportfolio
+```
 
 ---
 
-**Selected Work**
+<div align="center">
 
-| Project | Stack |
-|---|---|
-| [NotaryVerify AI](https://github.com/snavya0309/notaryverify_ai) — full-stack identity verification, biometrics, OCR, 6-state compliance | FastAPI · Next.js · DeepFace |
-| [Deep Research Investment Agent](https://github.com/snavya0309/deep-research-investment-agent) — agentic stock research, FinBERT + GROQ reasoning | CrewAI · FinBERT · GROQ |
-| [StartupOracle](https://github.com/snavya0309/StartupOracle) — 85% accurate exit predictor, shipped at Hissa | XGBoost · LightGBM · SHAP |
-| [UNLEARN-BENCH (PCGU)](https://github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU) — machine unlearning, remove bias from LLMs without retraining | PyTorch · PEFT · LoRA |
-| [Quantum Cancer Detection](https://snavya0309.github.io/paperportfolio/) — published research, Runner-Up Unisys Year 14 | Qiskit · PyTorch |
+<img src="https://github-readme-stats.vercel.app/api?username=snavya0309&show_icons=true&theme=dark&bg_color=07090f&title_color=f0a500&icon_color=f0a500&text_color=ededeb&border_color=2a2d3a&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snavya0309&layout=compact&theme=dark&bg_color=07090f&title_color=f0a500&text_color=ededeb&border_color=2a2d3a&hide_border=false&langs_count=6" height="150"/>
+
+</div>
 
 ---
 

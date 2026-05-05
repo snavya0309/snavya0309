@@ -51,16 +51,6 @@ open_to            = ["Data Scientist", "ML Engineer", "AI/LLM Engineer", "Softw
 
 <div align="center">
 
-![Snavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snavya0309&show_icons=true&theme=dark&bg_color=07090f&title_color=f0a500&icon_color=f0a500&text_color=ededeb&border_color=2a2d3a&include_all_commits=true&count_private=true&hide_border=false)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snavya0309&layout=compact&theme=dark&bg_color=07090f&title_color=f0a500&text_color=ededeb&border_color=2a2d3a&hide_border=false&langs_count=6)
-
-</div>
-
----
-
-<div align="center">
-
 [🖥️ Portfolio](https://snavya0309.github.io) &nbsp;·&nbsp;
 [💼 LinkedIn](https://linkedin.com/in/snavya-sai-m-b-0275aa203) &nbsp;·&nbsp;
 [📧 Email](mailto:smuntimu@asu.edu)

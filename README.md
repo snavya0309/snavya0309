@@ -1,77 +1,73 @@
-<h1 align="center">Snavya Sai Badri Prasad</h1>
+# Hey, I'm Snavya 👋
 
-<p align="center">
-  <b>Software Engineer · ML Engineer · AI / LLM Engineer</b><br/>
-  M.S. Data Science · Arizona State University · GPA 4.0 · May 2026<br/>
-  Tempe, AZ · Open to Relocation
-</p>
-
-<p align="center">
-  <a href="https://snavya0309.github.io"><img src="https://img.shields.io/badge/Portfolio-snavya0309.github.io-f0a500?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/snavya-sai-m-b-0275aa203"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:smuntimu@asu.edu"><img src="https://img.shields.io/badge/Email-smuntimu@asu.edu-f0a500?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-</p>
+### Software Engineer · ML Engineer · AI/LLM Engineer | M.S. Data Science @ ASU
 
 ---
 
-I ship end-to-end. Not just models, not just code — full systems.
+## 🚀 About Me
 
-- Shipped a **RAG GenAI chatbot** to 50+ technicians at **Mercedes-Benz R&D** on AWS
-- Built an **85%-accurate startup exit prediction platform** in production at **Hissa**
-- Researching **machine unlearning** in Phi & Mamba (PEFT · LoRA) at ASU
-- Currently building the complete **AI pipeline for The Lillian Project** — dyslexia intervention AI (capstone)
-- Published research on **Quantum ML** · Runner-Up Unisys Innovation Program Year 14
+I'm a **software engineer and data scientist** who builds at the intersection of AI systems and full-stack engineering. Currently finishing my **M.S. in Data Science at Arizona State University (GPA 4.0, May 2026)**.
 
----
+My time is split between shipping production APIs, training ML models, and understanding how AI actually behaves once real users start depending on it. I've worked across the full ML lifecycle — from raw data and feature engineering to model deployment on Kubernetes.
 
-### Tech Stack
-
-**ML / AI / LLM**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PEFT](https://img.shields.io/badge/PEFT-LoRA-8B5CF6?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-f0a500?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Production-16A34A?style=flat-square)
-
-**Agentic AI & LLM Tooling**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![GROQ](https://img.shields.io/badge/GROQ-F55036?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-
-**Engineering & Cloud**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+I don't hand off at boundaries. I own the problem end-to-end.
 
 ---
 
-### Featured Projects
+## ⚡ How I Work
 
-| Project | Description | Stack |
+- 🎯 I care more about **systems that ship** than demos that look good
+- 🔁 I move fast but with structure — **CI/CD, tests, and clean APIs** from day one
+- 🧠 I bring **research depth** (machine unlearning, agentic AI) into **production engineering**
+- 🤝 I've worked in cross-functional teams at Mercedes-Benz R&D, collaborating with domain experts, strategy teams, and product leads
+- 📦 Once I own a problem, I see it through — data to deployment
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Building the complete **AI pipeline for The Lillian Project** — adaptive literacy intervention for learners with dyslexia (capstone)
+- 🧬 Exploring **LangGraph and multi-agent systems** for production agentic workflows
+- 📐 Sharpening **system design and ML system design** for senior AI/ML roles
+- 🌍 Open to **Data Scientist, ML Engineer, AI/LLM Engineer, and SWE** roles — full-time, May 2026
+
+---
+
+## 💡 What Drives Me
+
+- 🚢 **Ship complete** — a half-built system helps no one
+- 🔍 **Build responsibly** — I think about what happens after deployment
+- 🧱 **Own the stack** — frontend to model to infra, no passing the buck
+- 📈 **Specific over vague** — 85% accuracy, 35% latency reduction, 50+ users. Numbers tell the real story
+
+---
+
+## 🛠️ Tech I Work With
+
+**ML / AI** — PyTorch · HuggingFace · PEFT · LoRA · XGBoost · LightGBM · SHAP · RAG · Transformers
+
+**Agentic & LLM** — LangChain · LangGraph · CrewAI · OpenAI API · Anthropic API · GROQ · Pinecone · FAISS
+
+**Engineering** — Python · FastAPI · React · Next.js · TypeScript · AWS · Docker · Kubernetes · GitHub Actions
+
+**Data** — SQL · Spark · Kafka · MongoDB · PostgreSQL · Tableau
+
+---
+
+## 🔭 Selected Work
+
+| Project | What I built | Stack |
 |---|---|---|
-| [The Lillian Project](https://snavya0309.github.io) | AI pipeline for dyslexia intervention — adaptive pathways, AlgoFace API, TTS avatar | Python · JS · AlgoFace |
-| [NotaryVerify AI](https://github.com/snavya0309/notaryverify_ai) | Full-stack identity verification — biometric comparison, OCR, liveness, 6-state compliance | FastAPI · Next.js · DeepFace |
-| [Deep Research Investment Agent](https://github.com/snavya0309/deep-research-investment-agent) | Agentic stock research pipeline with FinBERT sentiment + GROQ reasoning | CrewAI · FinBERT · GROQ |
-| [StartupOracle](https://github.com/snavya0309/StartupOracle) | 85% accurate startup exit predictor with SHAP explainability — built at Hissa | XGBoost · LightGBM · SHAP |
-| [UNLEARN-BENCH (PCGU)](https://github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU) | Machine unlearning benchmarks to remove social bias from Phi & Mamba without retraining | PyTorch · PEFT · LoRA |
-| [Quantum Cancer Detection](https://snavya0309.github.io/paperportfolio/) | Quantum ML vs classical for breast cancer detection — published, Runner-Up Unisys Year 14 | Qiskit · PyTorch · Quantum ML |
+| [NotaryVerify AI](https://github.com/snavya0309/notaryverify_ai) | Full-stack identity verification — biometrics, OCR, liveness, 6-state compliance | FastAPI · Next.js · DeepFace |
+| [Deep Research Investment Agent](https://github.com/snavya0309/deep-research-investment-agent) | Agentic stock research — FinBERT sentiment + multi-step LLM reasoning | CrewAI · FinBERT · GROQ |
+| [StartupOracle](https://github.com/snavya0309/StartupOracle) | 85% accurate startup exit predictor — shipped to production at Hissa | XGBoost · LightGBM · SHAP |
+| [UNLEARN-BENCH (PCGU)](https://github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU) | Machine unlearning to remove social bias from Phi & Mamba without full retraining | PyTorch · PEFT · LoRA |
+| [Quantum Cancer Detection](https://snavya0309.github.io/paperportfolio/) | Published research — Quantum ML vs classical for breast cancer · Runner-Up Unisys Year 14 | Qiskit · PyTorch |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snavya0309&show_icons=true&theme=dark&bg_color=07090f&title_color=f0a500&icon_color=f0a500&text_color=ededeb&border_color=f0a500&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snavya0309&layout=compact&theme=dark&bg_color=07090f&title_color=f0a500&text_color=ededeb&border_color=f0a500&hide_border=false" height="160"/>
-</p>
+## 🌐 Find Me
+
+- 🖥️ **Portfolio** — [snavya0309.github.io](https://snavya0309.github.io)
+- 💼 **LinkedIn** — [linkedin.com/in/snavya-sai-m-b-0275aa203](https://linkedin.com/in/snavya-sai-m-b-0275aa203)
+- 📧 **Email** — [smuntimu@asu.edu](mailto:smuntimu@asu.edu)

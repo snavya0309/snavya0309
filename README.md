@@ -39,20 +39,21 @@ open_to            = ["Data Scientist", "ML Engineer", "AI/LLM Engineer", "Softw
 
 ---
 
-📁 **selected-work/**
-├── [notaryverify_ai](https://github.com/snavya0309/notaryverify_ai) — FastAPI · Next.js · DeepFace · EasyOCR
-├── [deep-research-agent](https://github.com/snavya0309/deep-research-investment-agent) — CrewAI · FinBERT · GROQ · yfinance
-├── [StartupOracle](https://github.com/snavya0309/StartupOracle) — XGBoost · LightGBM · SHAP · Streamlit
-├── [UNLEARN-BENCH / PCGU](https://github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU) — PyTorch · PEFT · LoRA · Transformers
-└── [quantum-cancer-detection](https://snavya0309.github.io/paperportfolio) — Qiskit · PyTorch · published + award
+**📁 selected-work/**
+
+- [**notaryverify_ai**](https://github.com/snavya0309/notaryverify_ai) — FastAPI · Next.js · DeepFace · EasyOCR
+- [**deep-research-agent**](https://github.com/snavya0309/deep-research-investment-agent) — CrewAI · FinBERT · GROQ · yfinance
+- [**StartupOracle**](https://github.com/snavya0309/StartupOracle) — XGBoost · LightGBM · SHAP · Streamlit
+- [**UNLEARN-BENCH / PCGU**](https://github.com/sanskarsri26/UNLEARN-BENCH/tree/PCGU) — PyTorch · PEFT · LoRA · Transformers
+- [**quantum-cancer-detection**](https://snavya0309.github.io/paperportfolio) — Qiskit · PyTorch · published + award
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snavya0309&show_icons=true&theme=dark&bg_color=07090f&title_color=f0a500&icon_color=f0a500&text_color=ededeb&border_color=2a2d3a&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+![Snavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snavya0309&show_icons=true&theme=dark&bg_color=07090f&title_color=f0a500&icon_color=f0a500&text_color=ededeb&border_color=2a2d3a&include_all_commits=true&count_private=true&hide_border=false)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snavya0309&layout=compact&theme=dark&bg_color=07090f&title_color=f0a500&text_color=ededeb&border_color=2a2d3a&hide_border=false&langs_count=6" height="150"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snavya0309&layout=compact&theme=dark&bg_color=07090f&title_color=f0a500&text_color=ededeb&border_color=2a2d3a&hide_border=false&langs_count=6)
 
 </div>
 
